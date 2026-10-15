@@ -145,29 +145,6 @@ or a related data-oriented role.
 </p>
 
 ---
-
-# 🚀 Featured Projects
-
-## 📊 ISET Bizerte — Graduate Tracking & Professional Integration
-
-> **Business Intelligence • Power BI • Data Analysis • Web Scraping**
-
-A Business Intelligence project focused on analyzing the professional integration
-of ISET Bizerte graduates.
-
-### 🔎 Key Features
-
-- 📈 Interactive professional integration dashboard
-- 🔍 LinkedIn data collection through web scraping
-- 🧹 Data cleaning and transformation
-- 📊 Graduate career analysis
-- 🏢 Employment and company analysis
-- 🌍 Geographic analysis of graduates
-- 📑 KPI-based reporting
-
-**Tech:** `Power BI` `DAX` `Power Query` `Data Analysis` `Web Scraping`
-
-
 # 📊 GitHub Analytics
 
 <div align="center">
