@@ -49,7 +49,7 @@ building interactive dashboards, designing data solutions and developing useful
 digital products.
 
 🎯 **Currently looking for:**  
-An **alternance / professional opportunity** in Data Analysis, Business Intelligence
+An **apprenticeship / professional opportunity** in Data Analysis, Business Intelligence
 or a related data-oriented role.
 
 ---
